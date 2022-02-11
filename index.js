@@ -1,4 +1,19 @@
-/* Your Code Here */
+class employeeRecord {
+    constructor(firstName, familyName, title, payPerHour, timeInEvents, timeOutEvents) {
+        this.firstName = firstName;
+        this.familyName = familyName;
+        this.title = title;
+        this.payPerHour = payPerHour;
+        this.timeInEvents = timeInEvents;
+        this.timeOutEvents = timeOutEvents;
+    }
+}
+  
+function createEmployeeRecord() {
+    const employeeRecord = this.firstName.constructor
+}
+
+
 
 /*
  We're giving you this function. Take a look at it, you might see some usage
